@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FragmentsApp</string>
+    <string name="hello_quiz">
+        Hello!\n
+        We suggest you take the quiz and try to distinguish truth from lies
+    </string>
+    <string name="begin">Begin</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string-array name="questions">
+       <item>Let\'s start with a simple: \n
+           in February 2011, a girl named Facebook
+           was born in Egypt. It\'s true?
+       </item>
+        <item>Is it true that Facebook\'s daily audience
+           has exceeded the number of people who lived
+           on the planet 200 years ago?
+        </item>
+        <item>Using a mobile phone at a gas station
+           can cause an explosion.
+        </item>
+        <item>If the Sun goes out, people on Earth
+           will notice it only after 2 hours.
+        </item>
+        <item>More than 80% of the images on the web
+           are naked women. Is it true?
+        </item>
+        <item>Is it true that the term \"debugging\"
+           was coined by a woman?
+        </item>
+        <item>Sleepwalkers cannot be woken up.
+        </item>
+        <item>Is it possible to play Tetris
+           endlessly?
+        </item>
+        <item>Is it true that the world\'s
+           first programmer was a woman?
+        </item>
+    </string-array>
+</resources>
